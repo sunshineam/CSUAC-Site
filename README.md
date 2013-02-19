@@ -1,4 +1,9 @@
-== Welcome to Rails
+== Welcome to CSUAC new site!!
+
+
+-This is basically the default Rails page, but I just wanted to add a unique bit to it.
+
+-Let's do this!!
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
